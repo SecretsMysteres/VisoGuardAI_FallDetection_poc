@@ -1,0 +1,8 @@
+ultralytics
+mediapipe
+xgboost
+opencv-python
+scikit-learn
+pandas
+streamlit
+pyngrok
